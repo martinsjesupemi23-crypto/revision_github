@@ -1,0 +1,14 @@
+ blockquote {
+     color: darkslategray;
+     font-size: 1.3rem;
+     background-color: cadetblue;
+     padding: 20px;
+ }
+
+ body {
+     background-color: #333;
+ }
+
+ ul {
+     list-style-type: georgian;
+ } 
